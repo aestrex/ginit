@@ -1,0 +1,23 @@
+{
+  "name": "ginit",
+  "version": "1.0.0",
+  "description": "\"git init\" on steroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aestrex/ginit.git"
+  },
+  "keywords": [
+    "Git",
+    "CLI"
+  ],
+  "author": "David Alamu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aestrex/ginit/issues"
+  },
+  "homepage": "https://github.com/aestrex/ginit#readme"
+}
